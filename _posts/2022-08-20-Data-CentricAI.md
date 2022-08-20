@@ -2,6 +2,7 @@
 
 Code and data are the foundations of the AI system.
 Both of these components play an important role in the development of a robust model 
+<img width="405" alt="image" src="https://user-images.githubusercontent.com/94838278/185764953-32a7de08-452e-4caa-a01e-492b58ea3478.png">
 
 ---
 
@@ -32,6 +33,7 @@ Quality managers, subject matter experts, and developers can work together durin
 
 ### Data-Centric Reduces Development Time
 With such an approach, teams can work in parallel and directly influence the data used for the AI system. By removing unnecessary back and forth among groups and looping in human input at the point where it’s needed most, the result is reduced development time.
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/94838278/185764975-6c086d6f-7bbd-4309-a1aa-70f280197ffc.png">
 
 
 
