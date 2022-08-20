@@ -1,7 +1,9 @@
 # Data-Centric AI
 ### Artificial intelligence 
+
 Code and data are the foundations of the AI system.
 Both of these components play an important role in the development of a robust model 
+
 ![image](https://user-images.githubusercontent.com/94838278/185765956-1fcb6c7b-ad90-4d07-bd7a-b4c68f8c4a9a.png)
 ---
 
