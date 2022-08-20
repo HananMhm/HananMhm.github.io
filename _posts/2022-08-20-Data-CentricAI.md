@@ -10,7 +10,8 @@ Both of these components play an important role in the development of a robust m
 Think of a Data-Centric AI system as programming with focus on data instead of code. Industries of all types continue to adopt AI solutions, and while AI models have improved over the years, a fundamental shift is needed to truly unleash AI’s full potential.
 
 ### Data-centric AI vs model-centric AI
-![Uploading image.png…]()
+
+![dataS](https://user-images.githubusercontent.com/94838278/185761394-3a4f6a0c-dcd4-4075-9cdc-52ea21af2eb4.png)
 
 
 
