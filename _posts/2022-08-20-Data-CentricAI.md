@@ -1,8 +1,8 @@
 # Data-Centric AI
 Code and data are the foundations of the AI system.
 Both of these components play an important role in the development of a robust model 
-
-<img width="393" alt="image" src="https://user-images.githubusercontent.com/94838278/185765692-1998b97a-12d2-469a-8185-7b8298155fae.png">
+##### ML project life cycle in order
+![image](https://user-images.githubusercontent.com/94838278/185765765-c7385d5c-5f29-4d83-8d60-0ba53046f549.png)
 
 ---
 
