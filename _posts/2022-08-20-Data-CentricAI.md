@@ -12,6 +12,7 @@ Think of a Data-Centric AI system as programming with focus on data instead of c
 ### Data-centric AI vs model-centric AI
 
 <img width="888" alt="image" src="https://user-images.githubusercontent.com/94838278/185761422-2fca0dd2-c869-462f-8fba-a21973614f76.png">
+# In a data-centric approach, you spend relatively more of your time labeling, managing, slicing, augmenting, and curating the data, with the model itself remaining relatively more fixed.
 
 
 ####  Benefits of data-centric AI
