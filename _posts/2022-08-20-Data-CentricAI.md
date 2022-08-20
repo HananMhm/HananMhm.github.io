@@ -2,8 +2,7 @@
 
 Code and data are the foundations of the AI system.
 Both of these components play an important role in the development of a robust model 
-![image](https://user-images.githubusercontent.com/94838278/185765554-df4db2ec-4958-453c-96f4-1c9da7f1d5ce.png)
-
+<img width="393" alt="image" src="https://user-images.githubusercontent.com/94838278/185765692-1998b97a-12d2-469a-8185-7b8298155fae.png">
 ---
 
 ### What Is Data-Centric AI?
