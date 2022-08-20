@@ -1,6 +1,5 @@
-## Data-Centric AI
+# Data-Centric AI
 
- Data-Centric AI
 Code and data are the foundations of the AI system.
 Both of these components play an important role in the development of a robust model 
 
@@ -8,7 +7,8 @@ Both of these components play an important role in the development of a robust m
 
 ### What Is Data-Centric AI?
 the discipline of systematically engineering the data needed to build a successful AI system.
-###### In data-centric AI, the focus is on systematically iterating on the data to improve its quality so as to improve performance; it is a continuous process, something you do not only at the start but even after deployment into production.
+
+##### In data-centric AI, the focus is on systematically iterating on the data to improve its quality so as to improve performance; it is a continuous process, something you do not only at the start but even after deployment into production.
 
 ### Data-centric AI vs model-centric AI
 
