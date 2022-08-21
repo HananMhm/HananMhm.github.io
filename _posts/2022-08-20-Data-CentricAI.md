@@ -11,7 +11,7 @@ Each time an AI system runs a round of data processing, it tests and measures it
 ###### 3-Data Exploration: Arrangingthe datauniformly             
 ######  4- Modelling- Creating Models from the data
 ######  5-Evaluation- Evaluatingthe projec
-##
+#
 
  
  
@@ -50,7 +50,7 @@ Quality managers, subject matter experts, and developers can work together durin
 
 ### Data-Centric Reduces Development Time
 With such an approach, teams can work in parallel and directly influence the data used for the AI system. By removing unnecessary back and forth among groups and looping in human input at the point where it’s needed most, the result is reduced development time.
-#####
+#
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/94838278/185764975-6c086d6f-7bbd-4309-a1aa-70f280197ffc.png">
 
 
