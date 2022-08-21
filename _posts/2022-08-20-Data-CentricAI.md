@@ -32,6 +32,8 @@ the discipline of systematically engineering the data needed to build a successf
 
 
  In a data-centric approach, you spend relatively more of your time labeling, managing, slicing, augmenting, and curating the data, with the model itself remaining relatively more fixed.
+ 
+ #
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/94838278/185765649-f56e2ede-8474-4c06-9022-990cffaed543.png">
 
 ###  Benefits of data-centric AI
