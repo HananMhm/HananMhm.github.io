@@ -1,8 +1,16 @@
 # Data-Centric AI
-### Artificial intelligence 
+### AI project
 
-Code and data are the foundations of the AI system.
+Code and data are the foundations of the AI project.
 Both of these components play an important role in the development of a robust model 
+#### The Components of AI Project Cycleare:-
+ ##### Problem Scoping- Understandingthe problem
+ ##### Data Acquisition- Collectingaccurateand reliable data
+ ##### Data Exploration- Arrangingthe datauniformly
+ ##### Modelling- Creating Models from the data
+ ##### Evaluation- Evaluatingthe projec
+
+
 
 ![image](https://user-images.githubusercontent.com/94838278/185765956-1fcb6c7b-ad90-4d07-bd7a-b4c68f8c4a9a.png)
 ---
