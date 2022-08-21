@@ -56,7 +56,10 @@ With such an approach, teams can work in parallel and directly influence the dat
 
 
 ###  Summary:
+###
 <img width="787" alt="image" src="https://user-images.githubusercontent.com/94838278/185764327-2a911637-4113-4962-afbd-3bc7e234fe95.png">
+###
+###
  One of the common misconceptions about Data-Centric AI is that it’s all about data pre-processing. It is actually about the iterative workflow of developing a machine learning system, in which we improve the data over and over again. One of the most powerful ways to improve your AI system is to engineer the data to fix the problems identified by error analysis, and try training the model again
 
 ### reference
