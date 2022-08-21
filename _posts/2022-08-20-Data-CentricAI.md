@@ -29,10 +29,10 @@ the discipline of systematically engineering the data needed to build a successf
 ### Data-centric AI vs model-centric AI
 
 <img width="888" alt="image" src="https://user-images.githubusercontent.com/94838278/185761422-2fca0dd2-c869-462f-8fba-a21973614f76.png">
-<img width="511" alt="image" src="https://user-images.githubusercontent.com/94838278/185765649-f56e2ede-8474-4c06-9022-990cffaed543.png">
+
 
  In a data-centric approach, you spend relatively more of your time labeling, managing, slicing, augmenting, and curating the data, with the model itself remaining relatively more fixed.
-
+<img width="511" alt="image" src="https://user-images.githubusercontent.com/94838278/185765649-f56e2ede-8474-4c06-9022-990cffaed543.png">
 
 ###  Benefits of data-centric AI
 Some of the world’s largest organizations have benefited from adopting data-centric AI. Using Snorkel Flow, a data-centric AI application development platform, companies from diverse industries such as banks, biotech, insurance providers, telecommunications, government agencies, and more have seen improvements in developing and deploying deep-learning-based solutions. A few improvements we’ve seen from the adoption of a data-centric approach include:
