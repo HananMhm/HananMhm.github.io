@@ -4,9 +4,11 @@
 Code and data are the foundations of the AI project.
 Both of these components play an important role in the development of a robust model 
 #### The Components of AI Project Cycleare:-
- ##### 1- Problem Scoping: Understandingthe problem                         2-Data Acquisition- Collectingaccurateand reliable data
- ##### 3-Data Exploration: Arrangingthe datauniformly                       4- Modelling- Creating Models from the data
- #####                                                5-Evaluation- Evaluatingthe projec
+ 1- Problem Scoping: Understandingthe problem  
+ 2-Data Acquisition- Collectingaccurateand reliable data
+ 3-Data Exploration: Arrangingthe datauniformly             
+ 4- Modelling- Creating Models from the data
+  5-Evaluation- Evaluatingthe projec
  
 
 
