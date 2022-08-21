@@ -3,12 +3,15 @@
 
 Code and data are the foundations of the AI project.
 Both of these components play an important role in the development of a robust model 
+AI systems work by combining large sets of data with intelligent, iterative processing algorithms to learn from patterns and features in the data that they analyze.
+Each time an AI system runs a round of data processing, it tests and measures its own performance and develops additional expertise.
 #### The Components of AI Project Cycleare:-
- 1- Problem Scoping: Understandingthe problem  
- 2-Data Acquisition- Collectingaccurateand reliable data
- 3-Data Exploration: Arrangingthe datauniformly             
- 4- Modelling- Creating Models from the data
-  5-Evaluation- Evaluatingthe projec
+ ##### 1- Problem Scoping: Understandingthe problem  
+##### 2-Data Acquisition- Collectingaccurateand reliable data
+ ##### 3-Data Exploration: Arrangingthe datauniformly             
+#####  4- Modelling- Creating Models from the data
+ #####  5-Evaluation- Evaluatingthe projec
+ 
  
 
 
@@ -45,12 +48,14 @@ Quality managers, subject matter experts, and developers can work together durin
 
 ### Data-Centric Reduces Development Time
 With such an approach, teams can work in parallel and directly influence the data used for the AI system. By removing unnecessary back and forth among groups and looping in human input at the point where it’s needed most, the result is reduced development time.
+#####
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/94838278/185764975-6c086d6f-7bbd-4309-a1aa-70f280197ffc.png">
 
 
 
 ###  Summary:
 <img width="787" alt="image" src="https://user-images.githubusercontent.com/94838278/185764327-2a911637-4113-4962-afbd-3bc7e234fe95.png">
+#####
 One of the common misconceptions about Data-Centric AI is that it’s all about data pre-processing. It is actually about the iterative workflow of developing a machine learning system, in which we improve the data over and over again. One of the most powerful ways to improve your AI system is to engineer the data to fix the problems identified by error analysis, and try training the model again
 
 ### reference
