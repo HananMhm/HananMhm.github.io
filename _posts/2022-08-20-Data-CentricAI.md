@@ -10,7 +10,7 @@ Each time an AI system runs a round of data processing, it tests and measures it
 ###### 2-Data Acquisition- Collectingaccurateand reliable data
 ###### 3-Data Exploration: Arrangingthe datauniformly             
 ######  4- Modelling- Creating Models from the data
- ######  5-Evaluation- Evaluatingthe projec
+ ###### 5-Evaluation- Evaluatingthe projec
  
  
 
