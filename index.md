@@ -1,1 +1,1 @@
-The post here is about information technology, artificial intelligence and data and 
+The post here is about information technology, artificial intelligence and data  
